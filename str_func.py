@@ -1,3 +1,8 @@
 def upper_str(velue):
-    """Функция"""
+    """Функции"""
     return velue.upper
+
+
+def new_func(val):
+    """Upper"""
+    return val.upper
